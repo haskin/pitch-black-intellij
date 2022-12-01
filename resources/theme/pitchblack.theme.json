@@ -1,0 +1,18 @@
+{
+  "name": "Pitch-black",
+  "author": "YourCompany",
+  "dark": true,
+  "colors": {
+    "primaryRed": "#821010",
+    "defaultBackground": "#000000"
+  },
+  "ui": {
+    "*" : {
+      "background": "defaultBackground",
+      "windowBorder": "primaryRed"
+    },
+    "EditorTabs.underlinedTabBackground": "defaultBackground",
+    "DefaultTabs.underlineColor": "#4A88C7",
+    "ToolWindow.Header.inactiveBackground": "defaultBackground",
+  }
+}
