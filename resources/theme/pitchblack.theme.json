@@ -13,6 +13,6 @@
     },
     "EditorTabs.underlinedTabBackground": "defaultBackground",
     "DefaultTabs.underlineColor": "#4A88C7",
-    "ToolWindow.Header.inactiveBackground": "defaultBackground",
+    "ToolWindow.Header.inactiveBackground": "defaultBackground"
   }
 }
