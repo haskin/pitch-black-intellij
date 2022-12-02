@@ -2,17 +2,28 @@
   "name": "Pitch-black",
   "author": "YourCompany",
   "dark": true,
+  "editorScheme": "/pitch-black.xml",
   "colors": {
     "primaryRed": "#821010",
-    "defaultBackground": "#000000"
+    "defaultBackground": "#000000",
+    "primaryForeground" : "#d4d4d4",
+    "buttonBlue" : "#1177bb",
+    "DefaultTabs.underlineColor": "#4A88C7",
+    "selectionBackground" : "#354d7c"
   },
   "ui": {
     "*" : {
       "background": "defaultBackground",
-      "windowBorder": "primaryRed"
+      "foreground": "primaryForeground",
+      "windowBorder": "primaryRed",
+      "selectionBackground" : "#303030"
     },
     "EditorTabs.underlinedTabBackground": "defaultBackground",
-    "DefaultTabs.underlineColor": "#4A88C7",
-    "ToolWindow.Header.inactiveBackground": "defaultBackground"
+    "DefaultTabs.underlineColor": "buttonBlue",
+    "ToolWindow.Header.inactiveBackground": "defaultBackground",
+    "Button.default.startBackground": "buttonBlue",
+    "Button.default.endBackground": "buttonBlue",
+    "Button.startBackground": "defaultBackground",
+    "Button.endBackground": "defaultBackground"
   }
 }
