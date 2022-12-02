@@ -103,12 +103,12 @@
     </option>
     <option name="CONSOLE_DARKGRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="686868" />
+        <option name="FOREGROUND" value="b4b4b4" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c9c9c9" />
+        <option name="FOREGROUND" value="c0c0c0" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
