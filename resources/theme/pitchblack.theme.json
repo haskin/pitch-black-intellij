@@ -24,6 +24,7 @@
     "Button.default.startBackground": "buttonBlue",
     "Button.default.endBackground": "buttonBlue",
     "Button.startBackground": "defaultBackground",
-    "Button.endBackground": "defaultBackground"
+    "Button.endBackground": "defaultBackground",
+    "Tree.selectionInactiveBackground": "#262626"
   }
 }
