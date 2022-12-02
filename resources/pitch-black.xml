@@ -12,9 +12,9 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="GUTTER_BACKGROUND" value="0" />
     <option name="INDENT_GUIDE" value="3b3b3b" />
-    <option name="LINE_NUMBERS_COLOR" value="848484" />
+    <option name="LINE_NUMBERS_COLOR" value="b4b4b4" />
     <option name="RIGHT_MARGIN_COLOR" value="3b3b3b" />
-    <option name="SELECTION_BACKGROUND" value="264e77" />
+    <option name="SELECTION_BACKGROUND" value="0b5382" />
     <option name="VISUAL_INDENT_GUIDE" value="3b3b3b" />
   </colors>
   <attributes>
