@@ -1138,7 +1138,7 @@
     <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
   </attributes>
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+<!--  <option name="FONT_SCALE" value="1.0" />-->
+<!--  <option name="CONSOLE_FONT_NAME" value="Fira Code" />-->
+<!--  <option name="CONSOLE_LINE_SPACING" value="1.2" />-->
 </scheme>
