@@ -1,6 +1,6 @@
 {
   "name": "Pitch-black",
-  "author": "YourCompany",
+  "author": "Haskin",
   "dark": true,
   "editorScheme": "/pitch-black.xml",
   "colors": {
@@ -19,13 +19,15 @@
       "windowBorder": "primaryRed",
       "selectionBackground" : "selectionBackground"
     },
-    "EditorTabs.underlinedTabBackground": "defaultBackground",
     "DefaultTabs.underlineColor": "buttonBlue",
     "ToolWindow.Header.inactiveBackground": "defaultBackground",
     "Button.default.startBackground": "buttonBlue",
     "Button.default.endBackground": "buttonBlue",
     "Button.startBackground": "defaultBackground",
     "Button.endBackground": "defaultBackground",
-    "Tree.selectionInactiveBackground": "inactiveBackground"
+    "Tree.selectionInactiveBackground": "inactiveBackground",
+    "Component.infoForeground": "primaryRed",
+    "EditorTabs.hoverBackground": "4a4a4a",
+    "EditorTabs.underlinedTabBackground": "4a4a4a"
   }
 }
