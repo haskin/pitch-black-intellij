@@ -9,14 +9,15 @@
     "primaryForeground" : "#d4d4d4",
     "buttonBlue" : "#1177bb",
     "DefaultTabs.underlineColor": "#4A88C7",
-    "selectionBackground" : "#354d7c"
+    "selectionBackground" : "#0d598c",
+    "inactiveBackground" : "#0b5382"
   },
   "ui": {
     "*" : {
       "background": "defaultBackground",
       "foreground": "primaryForeground",
       "windowBorder": "primaryRed",
-      "selectionBackground" : "#303030"
+      "selectionBackground" : "selectionBackground"
     },
     "EditorTabs.underlinedTabBackground": "defaultBackground",
     "DefaultTabs.underlineColor": "buttonBlue",
@@ -25,6 +26,6 @@
     "Button.default.endBackground": "buttonBlue",
     "Button.startBackground": "defaultBackground",
     "Button.endBackground": "defaultBackground",
-    "Tree.selectionInactiveBackground": "#262626"
+    "Tree.selectionInactiveBackground": "inactiveBackground"
   }
 }
