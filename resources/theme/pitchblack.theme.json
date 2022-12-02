@@ -1,5 +1,5 @@
 {
-  "name": "Pitch-black",
+  "name": "Pitch-Black",
   "author": "Haskin",
   "dark": true,
   "editorScheme": "/pitch-black.xml",
@@ -26,8 +26,8 @@
     "Button.startBackground": "defaultBackground",
     "Button.endBackground": "defaultBackground",
     "Tree.selectionInactiveBackground": "inactiveBackground",
-    "Component.infoForeground": "primaryRed",
+    "Component.infoForeground": "b4b4b4",
     "EditorTabs.hoverBackground": "4a4a4a",
-    "EditorTabs.underlinedTabBackground": "4a4a4a"
+    "EditorTabs.underlinedTabBackground": "4a4a4a",
   }
 }
