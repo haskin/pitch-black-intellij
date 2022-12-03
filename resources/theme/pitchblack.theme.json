@@ -27,7 +27,7 @@
     "Button.endBackground": "defaultBackground",
     "Tree.selectionInactiveBackground": "inactiveBackground",
     "Component.infoForeground": "b4b4b4",
-    "EditorTabs.hoverBackground": "4a4a4a",
+    "EditorTabs.hoverBackground": "1a1a1a",
     "EditorTabs.underlinedTabBackground": "defaultBackground",
     "FileColor.Yellow":"1b1b00",
     "FileColor.Green": "001f00"
