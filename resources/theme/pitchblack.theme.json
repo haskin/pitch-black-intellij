@@ -10,7 +10,7 @@
     "buttonBlue" : "#1177bb",
     "DefaultTabs.underlineColor": "#4A88C7",
     "selectionBackground" : "#0d598c",
-    "inactiveBackground" : "#0b5382"
+    "inactiveBackground" : "#073553"
   },
   "ui": {
     "*" : {
@@ -28,6 +28,6 @@
     "Tree.selectionInactiveBackground": "inactiveBackground",
     "Component.infoForeground": "b4b4b4",
     "EditorTabs.hoverBackground": "4a4a4a",
-    "EditorTabs.underlinedTabBackground": "4a4a4a"
+    "EditorTabs.underlinedTabBackground": "defaultBackground"
   }
 }
