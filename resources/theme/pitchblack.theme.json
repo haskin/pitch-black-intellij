@@ -30,6 +30,7 @@
     "EditorTabs.hoverBackground": "1a1a1a",
     "EditorTabs.underlinedTabBackground": "defaultBackground",
     "FileColor.Yellow":"1b1b00",
-    "FileColor.Green": "001f00"
+    "FileColor.Green": "001f00",
+    "FileColor.Rose": "primaryRed"
   }
 }

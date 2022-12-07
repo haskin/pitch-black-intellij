@@ -77,7 +77,12 @@
         <option name="FOREGROUND" value="d3d3c8" />
       </value>
     </option>
-    <option name="CONSOLE_BLACK_OUTPUT">
+    <option name="BREAKPOINT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="400000" />
+        <option name="ERROR_STRIPE_COLOR" value="ffffff" />
+      </value>
+    </option><option name="CONSOLE_BLACK_OUTPUT">
       <value>
         <option name="FOREGROUND" value="0" />
       </value>
