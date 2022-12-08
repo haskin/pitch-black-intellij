@@ -2,7 +2,7 @@
   "name": "Pitch Black VS Code",
   "author": "Haskin",
   "dark": true,
-  "editorScheme": "/pitch-black.xml",
+  "editorScheme": "/PitchBlackVSCode.xml",
   "colors": {
     "primaryRed": "#821010",
     "defaultBackground": "#000000",
