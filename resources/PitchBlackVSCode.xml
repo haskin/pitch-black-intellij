@@ -243,7 +243,7 @@
     <option name="DART_SECONDARY_KEYWORD_WITH_BG">
       <value>
         <option name="FOREGROUND" value="cc85c6" />
-        <option name="BACKGROUND" value="1e1e1e" />
+        <option name="BACKGROUND" value="000000" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -599,7 +599,7 @@
     <option name="JS.FROM_KEYWORD">
       <value>
         <option name="FOREGROUND" value="cc85c6" />
-        <option name="BACKGROUND" value="1e1e1e" />
+        <option name="BACKGROUND" value="000000" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
@@ -969,7 +969,7 @@
     <option name="PY.SECONDARY_KEYWORD_WITH_BG">
       <value>
         <option name="FOREGROUND" value="cc85c6" />
-        <option name="BACKGROUND" value="1e1e1e" />
+        <option name="BACKGROUND" value="000000" />
       </value>
     </option>
     <option name="PY.SELF_PARAMETER">
@@ -992,7 +992,7 @@
     </option>
     <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK">
       <value>
-        <option name="BACKGROUND" value="1e1e1e" />
+        <option name="BACKGROUND" value="000000" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -1085,7 +1085,7 @@
     <option name="TS.FROM_KEYWORD">
       <value>
         <option name="FOREGROUND" value="cc85c6" />
-        <option name="BACKGROUND" value="1e1e1e" />
+        <option name="BACKGROUND" value="000000" />
       </value>
     </option>
     <option name="TS.MODULE_KEYWORD">
@@ -1128,14 +1128,14 @@
     <option name="XML_PROLOGUE">
       <value>
         <option name="FOREGROUND" value="d4d4d4" />
-        <option name="BACKGROUND" value="1e1e1e" />
+        <option name="BACKGROUND" value="000000" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="d4d4d4" />
-        <option name="BACKGROUND" value="1e1e1e" />
+        <option name="BACKGROUND" value="000000" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
