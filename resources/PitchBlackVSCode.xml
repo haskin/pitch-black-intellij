@@ -827,8 +827,16 @@
         </option>
         <option name="MATCHED_BRACE_ATTRIBUTES">
             <value>
+                <option name="FOREGROUND" value="d4d4d4" />
                 <option name="BACKGROUND" value="323232"/>
                 <option name="FONT_TYPE" value="1"/>
+                <option name="EFFECT_COLOR" value="878787"/>
+            </value>
+        </option>
+         <option name="UNMATCHED_BRACE_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="d4d4d4" />
+                <option name="BACKGROUND" value="323232"/>
                 <option name="EFFECT_COLOR" value="878787"/>
             </value>
         </option>
